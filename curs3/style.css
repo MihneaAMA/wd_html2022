@@ -1,0 +1,15 @@
+p{
+    font-style:italic;
+ 
+    
+}
+p:hover{
+    color:yellow
+
+}
+p::before,  p::after{
+    content: '++'
+}
+h1,h2,h3{
+    font-size: 30px
+}
