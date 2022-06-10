@@ -1,0 +1,14 @@
+div{
+    margin:20px;
+    padding:15px;
+    border:2px solid red;
+    width: 100%;
+    max-width:400%;
+    display:flex;
+    /* position:relative;
+    left:50%; */
+    outline-style: double;
+    outline-width: 10px;
+    outline-color: blue;
+    outline-offset: 5px;
+}
